@@ -1,5 +1,5 @@
-=== Clair ===
-Theme Name: Clair
+=== Rosmarinus ===
+Theme Name: Rosmarinus
 Theme Name: AARON
 Theme URI: http://ngaaron.com/
 Description: A Wordpress Theme Named Rosmarinusfor by Aaron, Based on Rosemary by Solo Pine.
