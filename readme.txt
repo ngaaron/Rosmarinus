@@ -22,5 +22,5 @@ Tags: black, blue, gray, green, white, yellow, dark, light, one-column, two-colu
 * Post Formats
 * The GPL v2.0 or later license. :) Use it to make something cool.
 
-For more information about Clair please go to https://ngaaron.com/1219
+For more information about Clair please go to http://ngaaron.com/1219
 
